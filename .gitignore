@@ -1,0 +1,18 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets / local environment
+.env
+*.pem
+*.key
+credentials.*
+secrets.*
+
+# Potentially sensitive or large raw artifacts — review before committing
+*.pcap
+*.pcapng
+*.evtx
+*.eml
