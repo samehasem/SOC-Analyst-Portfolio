@@ -2,11 +2,11 @@
 
 > Entry-level cybersecurity portfolio focused on security monitoring, log analysis, SIEM detections, phishing analysis, network traffic analysis, and incident response.
 
-**Owner:** `[Your Name]`  
-**Location:** `[City, Country]`  
-**Email:** `[professional email]`  
-**LinkedIn:** `[LinkedIn URL]`  
-**GitHub:** `[GitHub profile URL]`
+**Owner:** `[Sameh Asem]`  
+**Location:** `[City, cairo]`  
+**Email:** `[samehasem2003@gmail.com]`  
+**LinkedIn:** `[https://www.linkedin.com/in/sameh-asem-nada]`  
+**GitHub:** `[https://github.com/samehasem/SOC-Analyst-Portfolio/edit/main/README.md]`
 
 ## About
 
